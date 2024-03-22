@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="brand">Ruel</string>
+    <string name="model1">Сумка Honey Caramel</string>
+    <string name="model2">Сумка Honey Chocolate"</string>
+    <string name="knopka1">Заказать</string>
+    <string name="knobka2">Оформить заказ</string>
+</resources>
